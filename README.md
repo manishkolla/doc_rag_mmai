@@ -1,1 +1,3 @@
 # doc_rag_mmai
+
+Encoding Model: https://github.com/kexinhuang12345/clinicalBERT
