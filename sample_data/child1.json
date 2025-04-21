@@ -1,0 +1,45 @@
+{
+    "name": "child1",
+    "gender": "female",
+    "age": 9,
+    "diagnosis": "not identified",
+    "cognitiveDomainProfile": {
+        "workingMemory": {
+            "score": 72,
+            "description": "Kid struggles with holding multiple pieces of information in her mind at once. She often forgets multi-step directions, skips parts of assignments, and becomes overwhelmed when presented with too many details at once."
+        },
+        "processingSpeed": {
+            "score": 68,
+            "description": "Kid needs more time than her peers to process information. She performs best when instructions are broken into small chunks and she has additional time to respond or complete tasks. Quick-paced lessons can frustrate her or cause shutdowns."
+        },
+        "attentionSpan": {
+            "visualAttention": {
+                "score": 65,
+                "description": "Kid loses focus quickly when reading or looking at dense material. Long passages of text without images or color cues result in disengagement or daydreaming."
+            },
+            "auditoryAttention": {
+                "score": 70,
+                "description": "Kid gets distracted by surrounding sounds—like whispers, background noise, or even the hum of the air conditioner. Verbal instructions alone are often missed unless paired with visual reinforcement."
+            }
+        }
+    },
+    "executiveFunction": {
+        "planning": 4,
+        "impulseControl": 3,
+        "description": "Kid has difficulty structuring tasks, initiating multi-step activities, and controlling impulsive actions (e.g., blurting out, leaving her seat). She may start assignments without fully understanding them or struggle to sequence her thoughts when writing or problem-solving."
+    },
+    "learningPreferences": {
+        "modalities": [
+            "Kinesthetic (hands-on learning through movement and touch)",
+            "Visual Aids (diagrams, color‑coded notes, and picture‑based instructions)",
+            "Short‑Burst Activities (tasks broken into 5–10 minute sprints with frequent breaks)"
+        ],
+        "description": "Kid is highly responsive to learning that involves physical movement and colorful, visual prompts. Extended passive listening or large chunks of reading tend to reduce engagement."
+    },
+    "learningChallengesSummary": {
+        "attentionAndFocus": "Disrupted easily by both visual and auditory stimuli. Sustaining attention beyond short time spans is difficult.",
+        "memoryAndSpeed": "Low working memory and processing speed interfere with absorbing and applying new information.",
+        "planningAndImpulsivity": "Struggles with organizing tasks, waiting her turn, and following routines unless heavily scaffolded.",
+        "strengths": "Benefits from visual aids, interactive instruction, and physical engagement in the learning process. Visual‑spatial reasoning and verbal comprehension are likely adequate when delivered in accessible formats."
+    }
+}

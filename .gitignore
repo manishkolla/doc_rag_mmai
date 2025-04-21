@@ -1,2 +1,4 @@
 .env
 mmai1/
+lambda-psycopg2/
+lambda_pg8000/
