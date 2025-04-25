@@ -6,7 +6,7 @@ load_dotenv()
 
 host = 'profiles-db.c9qoeaqo4o0n.us-east-2.rds.amazonaws.com'
 port = 5432
-database = 'postgres'  # change to 'kid_profiles' if you created it
+database = 'postgres'
 user = os.getenv('PROFILE_RDS_USERNAME')
 password = os.getenv('PROFILE_RDS_PASSWORD')
 
